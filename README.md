@@ -1,7 +1,7 @@
 <h2 align="center"> 💻 Counting_Fingers_mediapipe_PY </h2>
 <br>
 
-<h4 align="center"> 💻  Hand Detection with OpenCV and Mediapipe ->  This project demonstrates how to use OpenCV and Mediapipe to detect and track hand movements using a webcam. The solution captures landmarks of a hand, processes them to identify if fingers are open or closed, and displays the count on the video feed. </h4>
+<h4 align="center"> 💻  This project demonstrates how to use OpenCV and Mediapipe to detect and track hand movements using a webcam. The solution captures landmarks of a hand, processes them to identify if fingers are open or closed, and displays the count on the video feed. </h4>
 <br>
 
 ---
@@ -18,11 +18,8 @@
     <img src="img_Counting_Fingers/04_count_fingers.png" style="width: 45%;" alt="04_count_fingers">
 </div>
 
-
 <br />
-
-
-<h4 align="center">Counting_Fingers_mediapipe_PY 🚀</h4>
+<br />
 
 <div align="center">
     <img src="img_Counting_Fingers/1_1_text_point_fingers.png" style="width: 45%; margin-right: 5%;" alt="1_1_text_point_fingers">
